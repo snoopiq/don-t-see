@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:background="@drawable/skin"
+	android:gravity="bottom"> 
+	    <Button
+        android:id="@+id/hair"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:text="Волосы" />
+        
+        <Button
+        android:id="@+id/eyes"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:text="Глаза" />
+        
+        <Button
+        android:id="@+id/mouth"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:text="Рот" />
+
+       <Button
+        android:id="@+id/shirt"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:text="Торс" />
+
+    <Button
+        android:id="@+id/hands"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:text="Руки" />
+
+    <Button
+        android:id="@+id/legs"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:text="Ноги" />
+
+
+
+</LinearLayout>

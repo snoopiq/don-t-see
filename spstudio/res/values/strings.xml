@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SP Studio</string>
+    <string name="hair">Волосы</string>
+    <string name="eyes">Глаза</string>
+    <string name="mouth">Рот</string>
+    <string name="shirt">Торс</string>
+    <string name="hands">Руки</string>
+    <string name="legs">Ноги</string>
+
+</resources>
