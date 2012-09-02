@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:gravity="center">
+
+    <Button
+        android:id="@+id/hands"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+
+        android:text="Руки" />
+
+    <Button
+        android:id="@+id/center"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+
+        android:text="Торс" />
+
+    <Button
+        android:id="@+id/legs"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+
+        android:text="Ноги" />
+
+</LinearLayout>
+	
